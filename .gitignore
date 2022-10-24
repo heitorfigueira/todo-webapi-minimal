@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/*/bin/*
+/*/obj/*
+/.vscode
+/Tests/ToDo.WebApi.Tests/bin/Debug/net6.0
+/Tests/ToDo.WebApi.Tests/obj
+/Tests/ToDo.WebApi.Tests.Acceptance/bin/Debug/net6.0
+/Tests/ToDo.WebApi.Tests.Acceptance/obj
+/Tests/ToDo.WebApi.Tests.Domain/bin/Debug/net6.0
+/Tests/ToDo.WebApi.Tests.Domain/obj
+/Tests/Todo.WebApi.Tests.Integration/bin/Debug/net6.0
+/Tests/Todo.WebApi.Tests.Integration/obj
+/Tests/ToDo.WebApi.Tests.Integration.MockApis/bin/Debug/net6.0
+/Tests/ToDo.WebApi.Tests.Integration.MockApis/obj
+/Tests/ToDo.WebApi.Tests.Mutation/bin/Debug/net6.0
+/Tests/ToDo.WebApi.Tests.Mutation/obj
+/Tests/ToDo.WebApi.Tests.Acceptance/bin/Debug/net7.0
+/Tests/Todo.WebApi.Tests.Integration/bin/Debug/net7.0
+/Tests/ToDo.WebApi.Tests.Unit/bin/Debug
+/Tests/ToDo.WebApi.Tests.Unit/obj
